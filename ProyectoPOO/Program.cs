@@ -11,6 +11,7 @@ namespace ProyectoPOO
         static void Main(string[] args)
         {
             Console.WriteLine("Holis");
+            Console.WriteLine("Algo más ");
         }
     }
 }
